@@ -1,0 +1,15 @@
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@300&family=Sacramento&display=swap" rel="stylesheet"> 
+
+Body: font-family: 'Merriweather', serif;
+
+h2, h3: font-family: 'Montserrat', sans-serif;
+
+h1: font-family: 'Sacramento', cursive;
+
+website: fonts.google.com
+
+About setting properties of border-style, margin, ...
+- 1 value applies to 4 edges.
+- 2 values apply to "top - bottom" and "left - right" respectively.
+- 3 values apply to "top", "left - right" and "bottom" respectively.
+- 4 values apply to "top", "right", "bottom" and "left" respectively. (Clockwise)

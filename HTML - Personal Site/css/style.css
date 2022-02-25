@@ -1,0 +1,40 @@
+/**************************TAG SELECTORS**************************/
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 10px;
+  width: 6%;
+}
+
+h1,
+h2 {
+  color: #66bfbf;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/**************************CLASS SELECTORS**************************/
+/* Not Unique Selector */
+/* Can be applied to any elements */
+/* An element can use multiple classes */
+.myImage {
+  background-color: white;
+}
+
+.imageBorder {
+  border-style: dotted;
+}
+
+/**************************ID SELECTORS**************************/
+/* Unique  Selector*/
+/* Only applied to one element */
+/* An element can use only one id */
+#myName {
+  color: greenyellow;
+}
